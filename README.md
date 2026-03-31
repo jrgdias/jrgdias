@@ -7,3 +7,6 @@
 </p>
 
 ![Banner](https://capsule-render.vercel.app/api?type=slice&color=00b4d8&height=200&section=header&text=Desenvolvedor%20FullStack&fontSize=70)
+
+
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=7209b7&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=50)
