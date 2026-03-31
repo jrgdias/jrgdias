@@ -1,1 +1,3 @@
-![Banner Animado](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=Bem-vindo!&fontSize=90&animation=fadeIn&fontAlignY=38)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
