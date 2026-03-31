@@ -29,3 +29,7 @@
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=50C878"/>
   <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat&logo=mysql&logoColor=00AEEF"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
