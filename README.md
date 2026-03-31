@@ -1,10 +1,1 @@
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,powerbi,pandas" />
-</p>
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-![Grid](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-divider.png" width="100%">
