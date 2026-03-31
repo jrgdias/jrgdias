@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:50C878&height=200&section=header&text=Machine%20Learning%20%7C%20Data%20Science&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=50C878&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciências+de+Dados;Python+%7C+Análise+de+Dados;Machine+Learning;SQL" />
 </p>
 
