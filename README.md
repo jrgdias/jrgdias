@@ -1,7 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=280&section=header&text=JORGE%20LUIS%20DIAS&fontSize=60&fontAlignY=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=24&center=true&vCenter=true&width=600&lines=SQL;Python;Machine+Learning"/>
+  <img src="https://raw.githubusercontent.com/JRGDIAS/JRGDIAS/main/banner.svg"/>
 </p>
