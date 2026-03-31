@@ -4,28 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=50C878&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciências+de+Dados;Python+%7C+Análise+de+Dados;Machine+Learning;SQL" />
 </p>
 
-💻 Estudante de Ciência de Dados pela EBAC  
-📊 Focado em Python, Análise de Dados e Machine Learning  
-🚀 Em constante evolução no mundo dos dados  
-
-## 🧠 Sobre mim
-Sou apaixonado por transformar dados em insights que geram valor.  
-Atualmente estou desenvolvendo habilidades em análise, visualização e modelagem de dados.
-
-## 🛠️ Tecnologias e Ferramentas
-- Python 🐍
-- Pandas & NumPy  
-- Matplotlib & Seaborn  
-- SQL  
-- Machine Learning  
-
-## 📈 Objetivos
-- Evoluir na área de Data Science  
-- Trabalhar com dados e inteligência analítica  
-- Construir projetos reais e relevantes  
-
-## 📫 Contato
-- LinkedIn: www.linkedin.com/in/jrgdias
-- Email: jrgdias25@gmail.com
-
-⭐ Sempre aprendendo, sempre evoluindo!
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JRGDIAS&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
