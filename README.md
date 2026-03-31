@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50C878,100:00AEEF&height=200&section=header&text=Jorge%20Dias&fontSize=40&fontColor=fff"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:50C878&height=200&section=header&text=Data%20Science&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:50C878&height=200&section=header&text=Jorge%20Dias&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
