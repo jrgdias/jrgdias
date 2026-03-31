@@ -24,3 +24,8 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=50C878"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat&logo=mysql&logoColor=00AEEF"/>
+</p>
