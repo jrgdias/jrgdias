@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0A0A0A&height=200&section=header&text=Jorge%20Dias&fontSize=40&fontColor=50C878"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0A0A0A&height=400&section=header&text=Jorge%20Dias&fontSize=20&fontColor=FFFFFF"/>
 </p>
 
 <p align="center">
