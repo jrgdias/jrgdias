@@ -1,73 +1,104 @@
 <p align="center">
-  <svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+  <svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- FUNDO PRETO -->
+    <!-- FUNDO -->
     <rect width="100%" height="100%" fill="black"/>
 
-    <!-- GRADIENTE CENTRAL (ESCURIDÃO PROFUNDA) -->
+    <!-- GRADIENTE CENTRAL -->
     <radialGradient id="core" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#000000"/>
-      <stop offset="60%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#020202"/>
       <stop offset="100%" stop-color="#000000"/>
     </radialGradient>
 
     <rect width="100%" height="100%" fill="url(#core)"/>
 
-    <!-- PARTÍCULAS -->
-    <g fill="white" opacity="0.08">
+    <!-- PARTÍCULAS DINÂMICAS -->
+    <g fill="white">
 
-      <!-- Partícula 1 -->
-      <circle cx="100" cy="50" r="2">
-        <animate attributeName="cx" values="100;800;100" dur="18s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="50;200;50" dur="20s" repeatCount="indefinite"/>
+      <!-- LOOP DE PARTÍCULAS (ENTRANDO E SAINDO DO CENTRO) -->
+
+      <!-- esquerda -> centro -->
+      <circle r="1.5">
+        <animate attributeName="cx" values="0;450;0" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="40;130;220" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.8;0" dur="12s" repeatCount="indefinite"/>
       </circle>
 
-      <!-- Partícula 2 -->
-      <circle cx="800" cy="200" r="1.5">
-        <animate attributeName="cx" values="800;100;800" dur="22s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="200;40;200" dur="19s" repeatCount="indefinite"/>
+      <!-- direita -> centro -->
+      <circle r="1.3">
+        <animate attributeName="cx" values="900;450;900" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="200;120;40" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="13s" repeatCount="indefinite"/>
       </circle>
 
-      <!-- Partícula 3 -->
-      <circle cx="300" cy="200" r="1.2">
-        <animate attributeName="cx" values="300;600;300" dur="25s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="200;30;200" dur="23s" repeatCount="indefinite"/>
+      <!-- topo -> centro -->
+      <circle r="1.2">
+        <animate attributeName="cx" values="200;450;700" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="0;130;0" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="16s" repeatCount="indefinite"/>
       </circle>
 
-      <!-- Partícula 4 -->
-      <circle cx="600" cy="40" r="1.8">
-        <animate attributeName="cx" values="600;200;600" dur="21s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="40;220;40" dur="24s" repeatCount="indefinite"/>
+      <!-- baixo -> centro -->
+      <circle r="1.6">
+        <animate attributeName="cx" values="700;450;200" dur="18s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="260;130;260" dur="18s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.8;0" dur="18s" repeatCount="indefinite"/>
       </circle>
 
     </g>
 
-    <!-- EFEITO DE PULSO NO CENTRO -->
-    <circle cx="450" cy="125" r="60" fill="black">
-      <animate attributeName="r" values="55;65;55" dur="6s" repeatCount="indefinite"/>
+    <!-- AURA ENERGÉTICA -->
+    <circle cx="450" cy="130" r="70" fill="none" stroke="white" stroke-width="0.3" opacity="0.2">
+      <animate attributeName="r" values="60;80;60" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="6s" repeatCount="indefinite"/>
     </circle>
 
-    <!-- TEXTO PRINCIPAL -->
-    <text x="50%" y="48%" text-anchor="middle" fill="white"
-      font-size="38"
+    <!-- NÚCLEO -->
+    <circle cx="450" cy="130" r="55" fill="black">
+      <animate attributeName="r" values="50;60;50" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- GLOW DO TEXTO -->
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- NOME -->
+    <text x="50%" y="48%" text-anchor="middle"
+      fill="white"
+      font-size="40"
       font-family="Orbitron, Arial, sans-serif"
-      letter-spacing="2">
+      letter-spacing="3"
+      filter="url(#glow)">
 
       JORGE LUIS DIAS
     </text>
 
     <!-- SUBTÍTULO -->
-    <text x="50%" y="65%" text-anchor="middle" fill="#BBBBBB"
-      font-size="16"
+    <text x="50%" y="65%" text-anchor="middle"
+      fill="#CCCCCC"
+      font-size="15"
       font-family="Arial, sans-serif"
-      letter-spacing="3">
+      letter-spacing="4">
 
       SQL • PYTHON • MACHINE LEARNING
     </text>
 
-    <!-- LINHA FUTURISTA -->
-    <line x1="250" y1="180" x2="650" y2="180" stroke="white" stroke-width="0.5" opacity="0.2">
-      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite"/>
+    <!-- LINHA DE ENERGIA -->
+    <line x1="200" y1="190" x2="700" y2="190"
+      stroke="white" stroke-width="0.6" opacity="0.2">
+
+      <animate attributeName="stroke-dasharray"
+        values="0,1000;200,800;0,1000"
+        dur="5s"
+        repeatCount="indefinite"/>
     </line>
 
   </svg>
