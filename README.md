@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Jorge
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=50C878&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciências+ de+Dados;Python+%7C+Análise+de+Dados;Machine+Learning;SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=50C878&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciências+de+Dados;Python+%7C+Análise+de+Dados;Machine+Learning;SQL" />
 </p>
 
 💻 Estudante de Ciência de Dados pela EBAC  
