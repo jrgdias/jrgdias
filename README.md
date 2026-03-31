@@ -1,3 +1,1 @@
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
+![Cyber Banner](https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=DATA%20SCIENCE&fontSize=70&fontColor=00FF41)
