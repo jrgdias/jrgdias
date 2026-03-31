@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jorge!
 
-<!--
-**jrgdias/jrgdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência de Dados pela EBAC  
+📊 Focado em Python, Análise de Dados e Machine Learning  
+🚀 Em constante evolução no mundo dos dados  
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
+Sou apaixonado por transformar dados em insights que geram valor.  
+Atualmente estou desenvolvendo habilidades em análise, visualização e modelagem de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- Python 🐍
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+- SQL  
+- Machine Learning  
+
+## 📈 Objetivos
+- Evoluir na área de Data Science  
+- Trabalhar com dados e inteligência analítica  
+- Construir projetos reais e relevantes  
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/jrgdias
+- Email: jrgdias25@gmail.com
+
+⭐ Sempre aprendendo, sempre evoluindo!
