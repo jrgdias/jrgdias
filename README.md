@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Data+Science;Machine+Learning;Python+%7C+SQL+%7C+Analytics" />
 </p>
 
+<h3 align="center">Building intelligence from data</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:111111&height=300&section=header&text=Jorge%20Dias&fontSize=65&fontAlignY=50&fontColor=50C878&font=Orbitron&animation=fadeIn"/>
 </p>
