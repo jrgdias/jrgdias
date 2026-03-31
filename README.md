@@ -5,3 +5,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=24&center=true&vCenter=true&width=600&lines=SQL;Python;Machine+Learning"/>
 </p>
+
+![Banner](https://capsule-render.vercel.app/api?type=slice&color=00b4d8&height=200&section=header&text=Desenvolvedor%20FullStack&fontSize=70)
