@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:001100&height=200&section=header&text=SYSTEM%20LOADING...&fontSize=35&fontColor=00FF00"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=260&section=header&text=JORGE%20DIAS&fontSize=60&fontAlignY=45&fontColor=ffffff&font=Montserrat&animation=fadeIn"/>
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0A0A0A&height=250&section=header&text=Jorge%20Dias&fontSize=20&fontColor=FFFFFF"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Data+Science;Machine+Learning;Python+%7C+SQL+%7C+Analytics" />
 </p>
 
 <p align="center">
