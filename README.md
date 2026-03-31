@@ -5,6 +5,5 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jrgdias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgdias&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50C878,100:00AEEF&height=200&section=header&text=Jorge%20Dias&fontSize=40&fontColor=fff"/>
 </p>
