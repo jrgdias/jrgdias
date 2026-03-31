@@ -16,3 +16,6 @@
 
 
 # 👋 Olá, eu sou um <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Python;Analista+de+Dados;Entusiasta+de+IA" alt="Typing SVG" />
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
