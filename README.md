@@ -10,3 +10,6 @@
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=7209b7&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=50)
+
+
+![Banner](https://capsule-render.vercel.app/api?type=transparent&color=000&height=200&section=header&text=Python%20|%20Data%20Science&fontSize=60)
