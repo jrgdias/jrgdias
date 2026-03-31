@@ -13,3 +13,6 @@
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=transparent&color=000&height=200&section=header&text=Python%20|%20Data%20Science&fontSize=60)
+
+
+# 👋 Olá, eu sou um <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Python;Analista+de+Dados;Entusiasta+de+IA" alt="Typing SVG" />
